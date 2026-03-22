@@ -34,6 +34,6 @@ python voice_face_app.py
 
 This project was built to help individuals improve English communication skills and reduce loneliness through AI interaction.
 
-<img width="774" height="622" alt="image" src="https://github.com/user-attachments/assets/78286d46-7279-43f3-bcce-5242c2ef644d" />
+
 
 
